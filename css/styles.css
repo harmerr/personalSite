@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace, arial, sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #CBF1F5;
+  border: solid 5px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.skills {
+  border-radius: 50%;
+
+}
+.center-text {
+  position: relative;
+  top: 60px;
+  padding: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 340px;
+  top: 45px;
+}
+.bottom-cloud {
+    position: absolute;
+    top:190px;
+    left: 315px;
+  }
